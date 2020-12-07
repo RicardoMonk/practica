@@ -1,4 +1,4 @@
-Recordamos el día de ayer todos los comandos que practicamos
+Recordamos el día de hoy todos los comandos que practicamos
 
 como git init, add . commit -m "rife"
 
