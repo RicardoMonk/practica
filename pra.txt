@@ -4,7 +4,7 @@ como git init, add . commit -m "rife"
 
 show, log, cat, status, mkdir, touch,
 
-ls, ls -al, ls -a,
+ls, ls -al, ls -a, y más
 
 reset 84797327423 --hard ó git checkout 87679586758
 git checkout 9887433498 nombre
